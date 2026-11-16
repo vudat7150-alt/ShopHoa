@@ -1,0 +1,23 @@
+- [x] Reorder homepage; seasonal bouquets and countdown, scent filters, wrapping and handwritten card previews.
+- [x] Add no-login date reminders and verify desktop/mobile flows.
+- [x] Verify metadata and tests; report any email delivery blocker.
+- [ ] Activate reminder emails — blocked on a verified sender domain; no email schedule is enabled.
+- [x] Refine seasonal showcase framing, live seconds and four seasonal effects; unify material selection with an envelope and editable signature.
+- [x] Verify countdown rules and homepage interactions on desktop and mobile.
+- [x] Add detailed proposed policies and flower-care support pages with shared sidebar and working footer links.
+- [x] Verify policy navigation, page metadata, and desktop/mobile reading layouts.
+- [x] Give seasonal best sellers distinct vintage seasonal palettes and visible natural motion; verify all four seasons and cart on desktop/mobile.
+- [x] Try unframed seasonal best sellers with fixed botanical motion; verify seasonal switching, cart and mobile layout.
+- [x] Combine a compact seasonal shop layout with realistic four-season garden motion behind products; verify selection, cart and mobile.
+- [x] Shrink the seasonal shelf, add a full edge-hugging tree with independently moving branches, and verify all seasons and mobile/cart.
+- [x] Replace pieced tree with one complete tree per season.
+- [x] Taller seasonal trees with clean cut-out edges and a few slim twigs over products.
+- [x] Rebuilt seasonal trees from the user's reference tree (long sweeping limbs, clean cut-out).
+- [x] Refine the hero-to-shelf introduction, seasonal ticker, boutique badges and hover sheen; verify seasons, cart and mobile.
+- [x] Add the fresh-arrival flower rail below seasonal best sellers, renumber sections and align scent links; verify shopping and mobile.
+- [x] Add tactile three-material envelopes with sequential folding, sealing and reopening; verify writing and motion on desktop/mobile.
+- [x] Reverse stationery columns, add a separate live card and botanical lining, and verify flat layered sealing/reopening on desktop/mobile.
+- [x] Restructure shop navigation and five category pages, expand proposed catalogue and contextual filters; verify shopping and mobile.
+- [x] Unify shop parchment, add Vietnamese single stems and lily variants, connect the flower dictionary to catalogue products, and verify prices/cart on desktop and mobile.
+- [x] Restore high-contrast dictionary bands, add monobotanical color bouquets and strict focal-flower recommendations; verify selections and mobile.
+- [x] Sync homepage dictionary imagery and framed pop-out; add eight supplied delivery photos/videos with lightbox; verify desktop/mobile.
